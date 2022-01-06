@@ -1,4 +1,0 @@
-# add the ID of the chat from which messages would be forwarded
-CHAT_SOURCE_ID = -705732615
-# add the IDs of the chats to which messages would be sent. Separate them by spaces
-CHAT_DESTINATIONS_IDS = -707235846
